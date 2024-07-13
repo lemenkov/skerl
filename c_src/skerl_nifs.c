@@ -1,5 +1,5 @@
 
-#include "erl_nif.h"
+#include <erl_nif.h>
 #include "erl_nif_compat.h"
 #include "skein_api.h"
 #include <stdio.h>
